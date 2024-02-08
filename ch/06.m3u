@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" group-title="Mediaset",Italia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
