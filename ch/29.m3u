@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="12" tvg-logo="https" group-title="Rai",Rai Sport + HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="29" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sport",Sportitalia
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8

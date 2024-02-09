@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="32" tvg-logo="https://imgur.com/aqzygqW" group-title="Radio",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8

@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="12" tvg-logo="https" group-title="Rai",Rai Sport + HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
+#EXTINF:-1 tvg-id="LA7d.it" tvg-chno="26" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Undefined",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
