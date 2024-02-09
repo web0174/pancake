@@ -1,2 +1,3 @@
-GET
-	https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="DanceTv.net_Chill" tvg-chno="24"
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
