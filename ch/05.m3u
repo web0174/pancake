@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" group-title="Mediaset",Canale 5
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="5" tvg-logo="https://i.imgur.com/9l0nHN4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd

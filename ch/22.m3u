@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DanceTv.net_MinimalTech" tvg-chno="22"
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="12" tvg-logo="https" group-title="Rai",Rai Sport + HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
