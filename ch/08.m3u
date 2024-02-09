@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="8" tvg-logo="https" group-title="Mediaset",Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="8" tvg-logo="https://i.imgur.com/6mYr74i.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
