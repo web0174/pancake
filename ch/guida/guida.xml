@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="guida.tv" lang="it" xmltv_id="Rai1.it" site_id="826573/rai-1">RAI 1</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Rai2.it" site_id="826550/rai-2">RAI 2</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Rai3.it" site_id="826551/rai-3">RAI 3</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Rete4.it" site_id="738252/rete-4">RETE 4</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Rai4.it" site_id="826552/rai-4">Rai 4</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Canale5.it" site_id="676773/canale-5">Canale 5</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Rai5.it" site_id="826553/rai-5">Rai 5</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Italia1.it" site_id="737349/italia-1">ITALIA 1</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="LA7.it" site_id="766555/la-7">LA 7</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="TV8.it" site_id="778473/tv8">TV8</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Nove.it" site_id="68748486/nove">Nove</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RaiSportHD.it" site_id="82658350/rai-sport-hd">Rai Sport HD</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="DMAX.it" site_id="68776588/dmax-italia">DMAX Italia</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Focus.it" site_id="70797384/focus">Focus</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RaiNews24.it" site_id="825078/rai-24-news">RAI 24 News</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RaiPremium.it" site_id="82657380/rai-premium">Rai Premium</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RaiScuola.it" site_id="82696849/rai-scuola">Rai Scuola</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RaiStoria.it" site_id="82738384/rai-storia">RAI STORIA</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="20.it" site_id="77688384/mediaset-20">Mediaset 20</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="7Gold.it" site_id="55717668/7-gold">7 Gold</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Cielo.it" site_id="677679/cielo">Cielo</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Cine34.it" site_id="67735152/cine34">Cine34</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Giallo.it" site_id="71737979/giallo">Giallo</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Iris.it" site_id="73827383/iris">Iris</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="La5.it" site_id="76655373/la-5">La 5</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="LA7d.it" site_id="76655568/la7d">La7d</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="MTVMusic.it" site_id="73778477/mtv-music">MTV Music</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RealTime.it" site_id="82847384/real-time">Real Time</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="RTL1025TV.it" site_id="82847673/rtl-1025">RTL 102.5</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="Sportitalia.it" site_id="83807384/sport-italia">Sport Italia</channel>
+  <channel site="guida.tv" lang="it" xmltv_id="SuperTennisHD.it" site_id="83847273/super-tennis-hd">Super Tennis HD</channel>
+</channels>
