@@ -3,12 +3,15 @@
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://i.imgur.com/0H9sGp3.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raigeneric3-live.akamaized.net/hls/live/619174/raigeneric3/raigeneric3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://i.imgur.com/fvAcZ02.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
+
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://i.imgur.com/VYgkKzj.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692
+
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="4" tvg-logo="https://i.imgur.com/sEY21rg.png" group-title="Rai",Rai 4
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="5" tvg-logo="https://i.imgur.com/9l0nHN4.png" group-title="Mediaset",Rete 4
