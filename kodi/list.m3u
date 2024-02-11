@@ -22,13 +22,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="LA7.it" tvg-chno="9" tvg-logo="https://i.imgur.com/lalgu75.png" group-title="Undefined",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/512px-TV8_Logo_2016.svg.png"
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="10" tvg-logo="https://imgur.com/a/ThIwa06"
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="11" tvg-logo="https://i.imgur.com/rTjIkGO.png"
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="12" tvg-logo="https://i.imgur.com/uGd9fnn.png" group-title="Discovery",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Focus.it" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/512px-Focus_Logo.svg.png" group-title="Mediaset",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-chno="13" tvg-logo="https://imgur.com/a/P7oRruD.png" group-title="Mediaset",FOCUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="14" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Rai",Rai News 24
@@ -38,20 +38,20 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="16" tvg-logo="https://i.imgur.com/b7md85o.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Rai",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://imgur.com/Bun1Wpw" group-title="Rai",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Rai",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png" group-title="Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://imgur.com/QkNMVgI" group-title="Mediaset",20 Mediaset
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="21" tvg-logo="https://i.imgur.com/tWUy3yx.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png" group-title="Mediaset",Cine34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/512px-Giallo_-_Logo_2014.svg.png" group-title="Discovery",Giallo
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="23" tvg-logo="https://imgur.com/U58JfG3" group-title="Discovery",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="24" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="Mediaset",Iris
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
