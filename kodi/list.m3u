@@ -42,7 +42,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="20" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png" group-title="Mediaset",20 Mediaset
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
@@ -69,8 +69,6 @@ https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633C
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-chno="31" tvg-logo="https" group-title="Sport",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="32" tvg-logo="https://imgur.com/aqzygqW" group-title="Radio",Radio TV Serie A con RDS
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="DanceTelevisionLive" tvg-chno="201" group-title="Music",Dance TV Live
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-chno="202" group-title="Music",Dance TV DeepHouse
@@ -95,6 +93,8 @@ https://clubbingtv-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ad
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-chno="212" group-title="Music",LoungeDeluxe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="301" tvg-logo="https://imgur.com/aqzygqW" group-title="Radio",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-chno="1001" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-chno="1002" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
