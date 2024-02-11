@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-id="DanceTelevisionLive" tvg-chno="201" tvg-logo="" group-title="Music",Dance TV Live
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-chno="202" tvg-logo="" group-title="Music",Dance TV DeepHouse
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTelevisionTechno" tvg-chno="203" tvg-logo="" group-title="Music",Dance TV Techno
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="DanceTelevisionTechHouse" tvg-chno="204" tvg-logo="" group-title="Music",Dance TV TechHouse
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTv.net_House" tvg-chno="205" tvg-logo="" group-title="Music",Dance TV House
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTv.net_MinimalTech" tvg-chno="206" tvg-logo="" group-title="Music",Dance TV MinimalTech
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 tvg-id="DanceTv.net_Edm" tvg-chno="207" tvg-logo="" group-title="Music",Dance TV Edm
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 tvg-id="DanceTv.net_Chill" tvg-chno="208" tvg-logo="" group-title="Music",Dance TV Chill
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTINF:-1 tvg-id="DanceTv.net_MelodicTechno" tvg-chno="209" tvg-logo="" group-title="Music",Dance TV MelodicTechno
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.it" tvg-chno="210" tvg-logo="" group-title="Music",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=3d8b033c-86cc-4c8a-a25a-5a5176cd3da2&ads_rtvid=271861&ads_streaming_id=c94dd793-07db-457f-8f0d-6eff0dc9e446&ads_amagi_channel=717&ads_amznslots=&ads_device_type=web&ads_amznbrmid=&ads_device_model=GENERIC&ads_device_year=1970&ads_gam_correlator=655572264480445&ads_player_width=1920&ads_tivo_devmakedate=&ads_rtv_content_language=eng&ads_app_version=&ads_market=it&ads_rtv_content_id=2487&ads_tivo_devcountry=&ads_tivo_mvpd=&ads_tivo_platform=&ads_device_make=chrome&ads_tivo_uxloc=&ads_user_type=visitor&ads_amznregion=&ads_content_classification=12&ads_gdpr_consent=&ads_tivo_usid=&ads_os_language=&ads_device_lmt=0&ads_brand_name=&ads_player_height=1080&uid=1hm6vagha-r9b5-or8-64hi-6c1vcf246fd/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
+#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-chno="211" tvg-logo="" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-chno="212" tvg-logo="" group-title="Music",LoungeDeluxe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
