@@ -44,18 +44,18 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://imgur.com/QkNMVgI" group-title="Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://imgur.com/QkNMVgI.png" group-title="Mediaset",20 Mediaset
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="21" tvg-logo="https://i.imgur.com/tWUy3yx.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png" group-title="Mediaset",Cine34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="22" tvg-logo="https://imgur.com/F1mY3In.png" group-title="Mediaset",Cine34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="23" tvg-logo="https://imgur.com/U58JfG3" group-title="Discovery",Giallo
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="23" tvg-logo="https://imgur.com/U58JfG3.png" group-title="Discovery",Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="24" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="Mediaset",Iris
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1 tvg-id="La5.it" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/512px-La5_Mediaset.svg.png" group-title="Undefined",La 5 [Geo-blocked]
+#EXTINF:-1 tvg-id="La5.it" tvg-chno="25" tvg-logo="https://imgur.com/lfhE1Bv.png" group-title="Undefined",La 5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="LA7d.it" tvg-chno="26" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Undefined",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
@@ -65,37 +65,11 @@ https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="29" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sport",Sportitalia
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="30" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Altro",Supertennis
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="30" tvg-logo="https://imgur.com/SAvOUxX.png" group-title="Altro",Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-chno="31" tvg-logo="https" group-title="Sport",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="DanceTelevisionLive" tvg-chno="201" group-title="Music",Dance TV Live
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-chno="202" group-title="Music",Dance TV DeepHouse
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="DanceTelevisionTechno" tvg-chno="203" group-title="Music",Dance TV Techno
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="DanceTelevisionTechHouse" tvg-chno="204" group-title="Music",Dance TV TechHouse
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="DanceTv.net_House" tvg-chno="205" group-title="Music",Dance TV House
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 tvg-id="DanceTv.net_MinimalTech" tvg-chno="206" group-title="Music",Dance TV MinimalTech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 tvg-id="DanceTv.net_Edm" tvg-chno="207" group-title="Music",Dance TV Edm
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 tvg-id="DanceTv.net_Chill" tvg-chno="208" group-title="Music",Dance TV Chill
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 tvg-id="DanceTv.net_MelodicTechno" tvg-chno="209" group-title="Music",Dance TV MelodicTechno
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 tvg-id="ClubbingTV.it" tvg-chno="210" group-title="Music",Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=3d8b033c-86cc-4c8a-a25a-5a5176cd3da2&ads_rtvid=271861&ads_streaming_id=c94dd793-07db-457f-8f0d-6eff0dc9e446&ads_amagi_channel=717&ads_amznslots=&ads_device_type=web&ads_amznbrmid=&ads_device_model=GENERIC&ads_device_year=1970&ads_gam_correlator=655572264480445&ads_player_width=1920&ads_tivo_devmakedate=&ads_rtv_content_language=eng&ads_app_version=&ads_market=it&ads_rtv_content_id=2487&ads_tivo_devcountry=&ads_tivo_mvpd=&ads_tivo_platform=&ads_device_make=chrome&ads_tivo_uxloc=&ads_user_type=visitor&ads_amznregion=&ads_content_classification=12&ads_gdpr_consent=&ads_tivo_usid=&ads_os_language=&ads_device_lmt=0&ads_brand_name=&ads_player_height=1080&uid=1hm6vagha-r9b5-or8-64hi-6c1vcf246fd/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/1280x720_3440800/chunklist.m3u8
-#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-chno="211" group-title="Music",Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-chno="212" group-title="Music",LoungeDeluxe
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="301" tvg-logo="https://imgur.com/aqzygqW" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-chno="1001" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-chno="1002" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-chno="1002" tvg-logo="https://imgur.com/L92wmK3.png" group-title="News",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
