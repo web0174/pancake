@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://i.imgur.com/0H9sGp3.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+https://raigeneric3-live.akamaized.net/hls/live/619174/raigeneric3/raigeneric3/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://i.imgur.com/fvAcZ02.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
@@ -38,9 +38,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="16" tvg-logo="https://i.imgur.com/b7md85o.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://imgur.com/Bun1Wpw" group-title="Rai",Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://imgur.com/Bun1Wpw.png" group-title="Rai",Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ" group-title="Rai",Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ.png" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
