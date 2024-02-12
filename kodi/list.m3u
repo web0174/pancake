@@ -22,11 +22,11 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="8" tvg-logo="https://i.imgur.com/6mYr74i.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="LA7.it" tvg-chno="9" tvg-logo="https://i.imgur.com/lalgu75.png" group-title="Undefined",La7
+#EXTINF:-1 tvg-id="LA7.it" tvg-chno="9" tvg-logo="https://i.imgur.com/lalgu75.png" group-title="Altri",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="10" tvg-logo="https://imgur.com/raNuByX.png" group-title="Undefined",Tv8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="10" tvg-logo="https://imgur.com/raNuByX.png" group-title="Altri",Tv8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="Nove.it" tvg-chno="11" tvg-logo="https://i.imgur.com/rTjIkGO.png" group-title="Undefined",Nove
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="11" tvg-logo="https://i.imgur.com/rTjIkGO.png" group-title="Altri",Nove
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="12" tvg-logo="https://i.imgur.com/uGd9fnn.png" group-title="Discovery",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
@@ -47,7 +47,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ.png" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Altri",Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-id="20.it" tvg-chno="20" tvg-logo="https://imgur.com/QkNMVgI.png" group-title="Mediaset",20 Mediaset
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
@@ -60,9 +60,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="24" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="Mediaset",Iris
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1 tvg-id="La5.it" tvg-chno="25" tvg-logo="https://imgur.com/lfhE1Bv.png" group-title="Undefined",La 5 [Geo-blocked]
+#EXTINF:-1 tvg-id="La5.it" tvg-chno="25" tvg-logo="https://imgur.com/lfhE1Bv.png" group-title="Mediaset",La 5
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1 tvg-id="LA7d.it" tvg-chno="26" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Undefined",La 7d
+#EXTINF:-1 tvg-id="LA7d.it" tvg-chno="26" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="Altri",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="27" tvg-logo="https://i.imgur.com/SPlk2Gx.png" group-title="Discovery",Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
@@ -70,7 +70,7 @@ https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="29" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sport",Sportitalia
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="30" tvg-logo="https://imgur.com/SAvOUxX.png" group-title="Altro",Supertennis
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="30" tvg-logo="https://imgur.com/SAvOUxX.png" group-title="Altri",Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="301" tvg-logo="https://imgur.com/aqzygqW" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
