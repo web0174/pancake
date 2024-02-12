@@ -10,7 +10,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="4" tvg-logo="https://i.imgur.com/sEY21rg.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="5" tvg-logo="https://i.imgur.com/9l0nHN4.png" group-title="Mediaset",Rete 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="5" tvg-logo="https://i.imgur.com/9l0nHN4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="6" tvg-logo="https://i.imgur.com/B9rgcy9.png" group-title="Mediaset",Canale 5
