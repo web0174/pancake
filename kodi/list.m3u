@@ -44,7 +44,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://imgur.com/Bun1Wpw.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ.png" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Altri",Gold TV
