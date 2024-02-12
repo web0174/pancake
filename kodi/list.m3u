@@ -37,13 +37,14 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="15" tvg-logo="https://i.imgur.com/40g5Urz.png" group-title="Rai",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 #EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="16" tvg-logo="https://i.imgur.com/b7md85o.png" group-title="Rai",Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="12" tvg-logo="https://imgur.com/Bun1Wpw.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="18" tvg-logo="https://imgur.com/RJBRbzJ.png" group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-chno="19" tvg-logo="https://i.imgur.com/Yzc47k9.png" group-title="Undefined",Gold TV
