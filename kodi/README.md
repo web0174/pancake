@@ -15,3 +15,9 @@ https://github.com/sfiorini/IPTV-Italy
 https://github.com/iptv-org/iptv
 
 https://github.com/Free-TV/IPTV
+
+## Risorse
+
+### pvr.iptvsimple
+
+https://github.com/kodi-pvr/pvr.iptvsimple
