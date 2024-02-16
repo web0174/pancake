@@ -1,85 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" ,Rai 1
+#EXTINF:-1 tvg-chno="1" group-title="Tv" ,Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
-#EXTINF:-1 tvg-chno="2" ,Rai 2
+#EXTINF:-1 tvg-chno="2" group-title="Tv,Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
-#EXTINF:-1 tvg-chno="3" ,Rai 3
+#EXTINF:-1 tvg-chno="3"  group-title="Tv,Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
-#EXTINF:-1 tvg-chno="4" ,Rete 4
+#EXTINF:-1 tvg-chno="4"  group-title="Tv,Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="5" ,Canale 5
+#EXTINF:-1 tvg-chno="5" group-title="Tv,Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="6" ,Italia 1
+#EXTINF:-1 tvg-chno="6" group-title="Tv,Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="7" ,LA7
+#EXTINF:-1 tvg-chno="7" group-title="Tv,LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
-#EXTINF:-1 tvg-chno="8" ,TV8
+#EXTINF:-1 tvg-chno="8" group-title="Tv,TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-chno="9" ,NOVE
+#EXTINF:-1 tvg-chno="9" group-title="Tv,NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-chno="10" ,People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" ,Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="20" ,20
+#EXTINF:-1 tvg-chno="20" group-title="Tv,20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="21" ,Rai 4
+#EXTINF:-1 tvg-chno="21" group-title="Tv,Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
-#EXTINF:-1 tvg-chno="22" ,Iris
+#EXTINF:-1 tvg-chno="22" group-title="Tv,Iris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="23" ,Rai 5
+#EXTINF:-1 tvg-chno="23" group-title="Tv,Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-chno="24" ,Rai Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
-#EXTINF:-1 tvg-chno="25" ,Rai Premium
+#EXTINF:-1 tvg-chno="25" group-title="Tv,Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
-#EXTINF:-1 tvg-chno="26" ,Cielo
+#EXTINF:-1 tvg-chno="26" group-title="Tv,Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-chno="27" ,Twenty Seven
+#EXTINF:-1 tvg-chno="27" group-title="Tv,Twenty Seven
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="29" ,LA7d
+#EXTINF:-1 tvg-chno="29" group-title="Tv,LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
-#EXTINF:-1 tvg-chno="30" ,La 5
+#EXTINF:-1 tvg-chno="30" group-title="Tv,La 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="31" ,Real Time
+#EXTINF:-1 tvg-chno="31" group-title="Tv,Real Time
 https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" ,QVC
+#EXTINF:-1 tvg-chno="32" group-title="Tv,QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-chno="33" ,Food Network
+#EXTINF:-1 tvg-chno="33" group-title="Tv,Food Network
 https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-chno="34" ,Cine34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="35" ,FOCUS
+#EXTINF:-1 tvg-chno="35" group-title="Tv,FOCUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="36" ,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-chno="37" ,Warner TV
+#EXTINF:-1 tvg-chno="37" group-title="Tv,Warner TV
 https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="38" ,Giallo
+#EXTINF:-1 tvg-chno="38" group-title="Tv,Giallo
 https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="39" ,Top Crime
+#EXTINF:-1 tvg-chno="39" group-title="Tv,Top Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="48" ,Rai News 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
-#EXTINF:-1 tvg-chno="49" ,Italia 2
+#EXTINF:-1 tvg-chno="49" group-title="Tv,Italia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="50" ,Sky TG24
@@ -87,17 +87,17 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:-1 tvg-chno="51" ,TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="52" ,DMAX
+#EXTINF:-1 tvg-chno="52" group-title="Tv,DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" ,Rai Storia
+#EXTINF:-1 tvg-chno="54" group-title="Tv,Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
-#EXTINF:-1 tvg-chno="55" ,Mediaset Extra
+#EXTINF:-1 tvg-chno="55" group-title="Tv,Mediaset Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="56" ,HGTV - Home&Garden
+#EXTINF:-1 tvg-chno="56" group-title="Tv,HGTV - Home&Garden
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-chno="57" ,Rai Scuola
+#EXTINF:-1 tvg-chno="57" group-title="Tv,Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTINF:-1 tvg-chno="58" ,Rai Sport + HD
@@ -107,7 +107,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-chno="60" ,Sportitalia
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
-#EXTINF:-1 tvg-chno="62" ,Donna TV
+#EXTINF:-1 tvg-chno="62" group-title="Tv,Donna TV
 https://sportitaliaamd.akamaized.net/video_0/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
 #EXTINF:-1 tvg-chno="64" ,Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
@@ -117,7 +117,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 tvg-chno="67" ,R101 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTINF:-1 tvg-chno="68" ,BOM CHANNEL
+#EXTINF:-1 tvg-chno="68" group-title="Tv,BOM CHANNEL
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" ,Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
